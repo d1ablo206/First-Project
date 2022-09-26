@@ -1,0 +1,39 @@
+1-git config --global user.name “[nume]”
+
+	Aceasta comanda seteaza un username.
+
+2-git config --global user.email “[adresa email]”
+
+	Aceasta comanda seteaza o adresa email.
+
+3-git config --global color.ui auto
+
+	Aceasta comanda seteaza o linie de cod colorata.
+
+4-git add [file]
+
+	This command adds a file from the working tree to the Staging area / current branch.
+
+5-git add *
+
+	Aceasta comanda adauga 1 sau mai multe fisiere spre Staging area sau Current branch
+
+6-git rm [fisier]
+
+	Aceasta comanda sterge un fisier din directoriu.
+
+7-git status
+
+	Aceasta comanda arata toate fisierele ce necesita salvate.
+
+8-git diff 
+
+	Aceasta comanda arata fisierele care nu sunt stagiate.
+
+9-git commit -a
+
+	Aceasta comanda comite toate fisierele spre repositoriu
+
+10-git reset --hard [commit]
+
+	Aceasta comanda anuleaza toata istoria si se intoarce la un commit specificat.
